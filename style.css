@@ -1,0 +1,31 @@
+.header {
+    background-color: #1F2937;
+    font-size: 18px;
+    color: #e5e7eb;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.header-right {
+    display: flex;
+}
+
+p {
+    padding-right: 18px;
+}
+
+.secondheader {
+    background-color: #1F2937;
+}
+
+h1 {
+    font-size: 48px;
+    color: #f9faf8;
+}
