@@ -131,6 +131,7 @@ blockquote {
     font-size: 18px;
     color: #e5e7eb;
     margin: 0px;
+    
 }
 
 button {
@@ -142,6 +143,7 @@ button {
 	font-weight: bold;
 	border-radius: 5px;
     border: 2px solid #e5e7eb;
+    margin-left: 20px;
 }
 
 .footer {
@@ -168,4 +170,5 @@ body {
     border: 1px solid #e5e7eb;
     margin-top: 10px;
     margin-top: 20px;
+    margin-left: 0;
 }
