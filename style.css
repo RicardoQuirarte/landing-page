@@ -4,11 +4,13 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    padding-bottom: 25px;
 }
 
 .logo {
     font-size: 24px;
     color: #f9faf8;
+    margin-right: 170PX;
 }
 
 .header-right {
@@ -37,7 +39,7 @@ h1 {
     background-color: #1F2937;
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: space-evenly
 }
 
 .second {
@@ -108,7 +110,7 @@ cite {
     justify-content: space-around;
     background-color: #3882f6;
     border-radius: 15px;
-    width: 900px;
+    width: 50%;
     padding: 50px;
     margin: auto;
     margin-top: 100px;
